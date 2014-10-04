@@ -1,0 +1,21 @@
+Alanine,Ala,A,nonpolar,neutral,1.8,,,89,1
+Arginine,Arg,R,Basic polar,positive,?4.5,,,174,2
+Asparagine,Asn,N,polar,neutral,?3.5,,,132,3
+Aspartic acid,Asp,D,acidic polar,negative,?3.5,,,133,4
+Cysteine,Cys,C,nonpolar,neutral,2.5,250,0.3,121,5
+Glutamic acid,Glu,E,acidic polar,negative,?3.5,,,147,6
+Glutamine,Gln,Q,polar,neutral,?3.5,,,146,7
+Glycine,Gly,G,nonpolar,neutral,?0.4,,,75,8
+Histidine,His,H,Basic polar,neutral,?3.2,211,5.9,155,9
+Isoleucine,Ile,I,nonpolar,neutral,4.5,,,131,10
+Leucine,Leu,L,nonpolar,neutral,3.8,,,131,11
+Lysine,Lys,K,Basic polar,positive,?3.9,,,146,12
+Methionine,Met,M,nonpolar,neutral,1.9,,,149,13
+Phenylalanine,Phe,F,nonpolar,neutral,2.8,"257, 206, 188","0.2, 9.3, 60.0",165,14
+Proline,Pro,P,nonpolar,neutral,?1.6,,,115,15
+Serine,Ser,S,polar,neutral,?0.8,,,105,16
+Threonine,Thr,T,polar,neutral,?0.7,,,119,17
+Tryptophan,Trp,W,nonpolar,neutral,?0.9,"280, 219","5.6, 47.0",204,18
+Tyrosine,Tyr,Y,polar,neutral,?1.3,"274, 222, 193","1.4, 8.0, 48.0",181,19
+Valine,Val,V,nonpolar,neutral,4.2,,,117,20
+Not aligned,NA,-,,,,,,,0
