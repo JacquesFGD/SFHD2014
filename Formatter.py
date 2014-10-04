@@ -29,5 +29,22 @@ def Idtonumlist(identifier):
         out.append(reference[letter])
     return out
 
-#print Idtonumlist('P42345')
+h = open('human.txt', 'w')
+for num in Idtonumlist('P42345'):
+    h.write(str(num)+'\n')
+h.close()
 
+h = open('mouse.txt', 'w')
+for num in Idtonumlist('Q9JLN9'):
+    h.write(str(num)+'\n')
+h.close()
+
+h = open('goat.txt', 'w')
+for num in Idtonumlist('D9I5T4'):
+    h.write(str(num)+'\n')
+h.close()
+
+h = open('elephant.txt', 'w')
+for num in Idtonumlist('G3TFL3'):
+    h.write(str(num)+'\n')
+h.close()
